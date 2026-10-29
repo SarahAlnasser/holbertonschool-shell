@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne 'print if $. % 2'
+perl -lane 'print $F[0] if $. % 2'
