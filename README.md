@@ -1,1 +1,1 @@
-# Holberton School Shell
+# Shell, permissions
